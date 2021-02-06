@@ -9,3 +9,5 @@ rumor_redes: Propagation of a rumour in the Erdos-renyi, Barabási-Albert prefer
 rumor_renyi: Implementation of an Erdos-renyi network and the propagation of a rumour in it.
 
 towns_epidemic: Implementation of an Erdos-renyi network and modelling the spread of a disease in this network (i.e. as if the network is a city).
+
+erdos_renyi_drunk: Implementation of an Erdos-renyi network and modelling of a drunk man walking through the nodes without following any path, moving randomly.
