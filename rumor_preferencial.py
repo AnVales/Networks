@@ -1,4 +1,4 @@
-# Implementation of Erdos-Renyi Model 
+# Implementation of preferential attachment Model 
 import numpy as np
 from numpy import random 
 import networkx as nx
